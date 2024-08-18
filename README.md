@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I started learning C++ this summer. I'll upload here some of my first projects, which are mostly very simple games.
 <!--
 **merouanebenadda/merouanebenadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
