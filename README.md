@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a student at École Polytechnique in France, and I started learning C++ this summer. I'll upload here some of my first projects, which are mostly very simple games.
+I'm a second year student at École Polytechnique passionate about Computer Science and Machine Learning.
 <!--
 **merouanebenadda/merouanebenadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
