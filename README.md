@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a second year student at École Polytechnique passionate about Computer Science and Machine Learning.
+I'm a third year student at École Polytechnique passionate about Deep Learning and Applied Maths.
 <!--
 **merouanebenadda/merouanebenadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
